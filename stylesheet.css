@@ -1,0 +1,13 @@
+body { 
+    text-align: center; 
+    margin: auto; 
+}
+.user-score, .computer-score {
+    color: red;
+}
+.card {
+    width: 500px;
+    text-align: center;
+    margin: auto;
+    background-color: rgb(77, 160, 232);
+}
